@@ -1,1 +1,2 @@
 echo "king"
+echo "man"
